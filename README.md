@@ -17,14 +17,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=wnc
 
 ####################################### mnc group ###########################################################
 
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDKdlVHBkh8iqjPwMpuIvGqkOJiBJsh2e9--Aj6wc5zV5qtC7Fufj-QhF&s=10",
-#EXTINF:-1 group-logo="https://asset.kompas.com/crops/_Nigblh7up6joR0b9Awz4hifDeY=/0x0:750x500/1200x800/data/photo/2024/04/29/662fbebece841.png",
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="TV Nasional 🇲🇨",RCTI HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="TV Nasional 🇲🇨",RCTI
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
